@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/07 06:51:43.000.826,=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 06:46:12.000.114,=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 06:47:31.000.955,C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\U_calculadora.fmx=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/12/02 06:47:31.000.955,C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\U_calculadora.pas=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 06:48:04.000.964,C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora.dproj=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/12/02 07:32:05.000.630,C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\Calculadora.dproj=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora.dproj</Transaction>
+    <Transaction>2024/12/04 06:48:11.000.099,=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2024/12/04 06:48:33.000.296,C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\U_calculos.pas</Transaction>
+    <Transaction>2024/12/09 06:12:09.000.231,=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2024/12/09 06:13:15.000.941,C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\U_gerenciarBotoes.pas=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2024/12/12 06:12:17.000.258,=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2024/12/12 06:26:06.000.245,C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\U_operacoesBotoes.pas=C:\Users\brsen\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

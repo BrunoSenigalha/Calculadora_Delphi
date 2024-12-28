@@ -1,0 +1,38 @@
+unit U_calculos;
+
+interface
+
+  uses
+   System.SysUtils;
+
+function VerificaDivisao(numero1, numero2: Double): Double;
+function CalculoOperacao(numero1, numero2: Double; operador:Char): Double;
+
+
+
+implementation
+
+  function CalculoOperacao(numero1, numero2: Double; operador:Char): Double;
+begin
+   case operador of
+        '+': Result := numero1 + numero2;
+        '-': Result := numero1 - numero2;
+        'x': Result := numero1 * numero2;
+        '/': Result := VerificaDivisao(numero1, numero2);
+   else
+
+    raise Exception.Create('Operador inválido!');
+   end;
+end;
+
+function VerificaDivisao(numero1, numero2: Double): Double;
+begin
+   if numero2 <> 0 then
+   begin
+     Result:= numero1 / numero2;
+   end
+   else
+      raise Exception.Create('O divisor não pode ser zero!');
+end;
+
+end.
